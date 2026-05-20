@@ -15,7 +15,6 @@ print("NÚMERO DE CADA RANK: " \
 
 rankUsuario = int(input("Digite o número do seu rank: "))
 
-
 while True:
     if rankUsuario in todosRanks:
 
@@ -24,15 +23,15 @@ while True:
         print("\n".join(sample))
             
         while True:
-            confirmar = input("\nEsse é seu time, deseja continuar? (s/n) ")
-            
+            confirmar = input("\nEsse é seu time, deseja continuar? (s/n) ").lower
+
             if confirmar == "s":
                 break
 
             if confirmar == "n":
                 break
 
-            if confirmar != "s" or confirmar != "n":
+            if confirmar != "s" and confirmar != "n":
                 print("COMANDO INVÁLIDO")
 
     else:

@@ -23,7 +23,7 @@ while True:
         print("\n".join(sample))
             
         while True:
-            confirmar = input("\nEsse é seu time, deseja continuar? (s/n) ").lower
+            confirmar = input("\nEsse é seu time, deseja continuar? (s/n) ")
 
             if confirmar == "s":
                 break

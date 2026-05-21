@@ -22,6 +22,8 @@ while True:
     if rankUsuario in todosRanks:
 
         sample = random.choice(todosRanks[rankUsuario])
+        print("Procurando um time...")
+        time.sleep(2)
         print("\nSeu time: ")
         print("\n".join(sample))
             

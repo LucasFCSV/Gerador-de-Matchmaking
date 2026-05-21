@@ -17,7 +17,7 @@ rankUsuario = int(input("Digite o número do seu rank: "))
 
 while True:
 
-    confirmar = "s"
+    confirmar = "n"
 
     if rankUsuario in todosRanks:
 
@@ -39,6 +39,7 @@ while True:
 
     else:
         print("Rank inválido!")
+        rankUsuario = int(input("TENTE NOVAMENTE! \nDigite o número do seu rank: "))
 
     if confirmar == "s":
         break

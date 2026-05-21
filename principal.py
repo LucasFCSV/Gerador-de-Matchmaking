@@ -16,9 +16,10 @@ print("NÚMERO DE CADA RANK: " \
 rankUsuario = int(input("Digite o número do seu rank: "))
 
 while True:
+    
     if rankUsuario in todosRanks:
 
-        sample = random.sample(todosRanks[rankUsuario], 4)
+        sample = random.choice(todosRanks[rankUsuario])
         print("\nSeu time: ")
         print("\n".join(sample))
             

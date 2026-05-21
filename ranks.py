@@ -1,119 +1,228 @@
 ferro = [
-    "Lucasplay - 9/10 - Duelista - Ferro 1",
-    "GuiZera - 2/10 - Iniciador - Ferro 1",
-    "DaviRush - 7/10 - Controlador - Ferro 1",
-    "KauanPlay - 4/10 - Sentinela - Ferro 2",
-    "TutuSniper - 10/10 - Duelista - Ferro 2",
-    "BruninAim - 1/10 - Flex - Ferro 2",
-    "LeoHeadshot - 5/10 - Iniciador - Ferro 3",
-    "Zezin - 8/10 - Controlador - Ferro 3",
-    "Joaozin - 3/10 - Sentinela - Ferro 3",
-    "PedrinFPS - 6/10 - Duelista - Ferro 3"
+
+    [
+        "LucãoDoPix - 9/10 - Ferro 1",
+        "GuiDaBaixada - 2/10 - Ferro 1",
+        "Davizinho - 7/10 - Ferro 1",
+        "KauanXT - 4/10 - Ferro 2"
+    ],
+
+    [
+        "Tutuzera - 10/10 - Ferro 2",
+        "BruninDoGrau - 1/10 - Ferro 2",
+        "LeoClutch - 5/10 - Ferro 3",
+        "ZezinFPS - 8/10 - Ferro 3"
+    ],
+
+    [
+        "JoaoDoMouse - 3/10 - Ferro 3",
+        "Pedrin777 - 6/10 - Ferro 3",
+        "KauazinBR - 4/10 - Ferro 2",
+        "DaviRushadão - 7/10 - Ferro 1"
+    ]
+
 ]
 
 bronze = [
-    "Jeffinhogames - 2/10 - Controlador - Bronze 1",
-    "VictorRush - 9/10 - Iniciador - Bronze 1",
-    "GuiDoValorant - 4/10 - Duelista - Bronze 1",
-    "RafaKills - 7/10 - Duelista - Bronze 2",
-    "HenriqueGG - 1/10 - Flex - Bronze 2",
-    "NandoClutch - 5/10 - Sentinela - Bronze 2",
-    "MatheusX1 - 10/10 - Flex - Bronze 3",
-    "JapaGamer - 3/10 - Controlador - Bronze 3",
-    "LukinhasBR - 6/10 - Duelista - Bronze 3",
-    "Felpszera - 8/10 - Sentinela - Bronze 3"
+
+    [
+        "Jeffin - 2/10 - Bronze 1",
+        "Vitinzera - 9/10 - Bronze 1",
+        "GuiDoInterior - 4/10 - Bronze 1",
+        "RafinhaFPS - 7/10 - Bronze 2"
+    ],
+
+    [
+        "HenriqueDoido - 1/10 - Bronze 2",
+        "Nandozera - 5/10 - Bronze 2",
+        "Matheuzin - 10/10 - Bronze 3",
+        "Japinha - 3/10 - Bronze 3"
+    ],
+
+    [
+        "Lukinhas - 6/10 - Bronze 3",
+        "FelpsDoValorant - 8/10 - Bronze 3",
+        "VitinRush - 9/10 - Bronze 1",
+        "JeffFPS - 2/10 - Bronze 1"
+    ]
+
 ]
 
 prata = [
-    "ShadowFPS - 4/10 - Duelista - Prata 1",
-    "Darkzin - 9/10 - Controlador - Prata 1",
-    "Quickzera - 2/10 - Iniciador - Prata 1",
-    "IceWalker - 7/10 - Flex - Prata 2",
-    "NoScopeBR - 1/10 - Sentinela - Prata 2",
-    "ClutchGod - 10/10 - Duelista - Prata 2",
-    "AlphaRush - 5/10 - Controlador - Prata 3",
-    "Smokezera - 3/10 - Flex - Prata 3",
-    "SniperGhost - 8/10 - Iniciador - Prata 3",
-    "Aimzera - 6/10 - Duelista - Prata 3"
+
+    [
+        "Shadowzin - 4/10 - Prata 1",
+        "DarkDoZap - 9/10 - Prata 1",
+        "Quickzera - 2/10 - Prata 1",
+        "WalkerBR - 7/10 - Prata 2"
+    ],
+
+    [
+        "NoScopeDoido - 1/10 - Prata 2",
+        "ClutchDoPix - 10/10 - Prata 2",
+        "AlphaDoGrau - 5/10 - Prata 3",
+        "SmokeDoZap - 3/10 - Prata 3"
+    ],
+
+    [
+        "Sniperzinho - 8/10 - Prata 3",
+        "Aimzera - 6/10 - Prata 3",
+        "DarkzinBR - 9/10 - Prata 1",
+        "IceDaQuebrada - 7/10 - Prata 2"
+    ]
+
 ]
 
 ouro = [
-    "RadiantFake - 2/10 - Duelista - Ouro 1",
-    "SilentAim - 9/10 - Controlador - Ouro 1",
-    "GhostPlayer - 5/10 - Sentinela - Ouro 1",
-    "Firezera - 1/10 - Duelista - Ouro 2",
-    "RushMaster - 10/10 - Flex - Ouro 2",
-    "PixelAim - 4/10 - Iniciador - Ouro 2",
-    "NightFPS - 8/10 - Controlador - Ouro 3",
-    "DrakoRush - 3/10 - Duelista - Ouro 3",
-    "MidDiff - 7/10 - Sentinela - Ouro 3",
-    "AceMachine - 6/10 - Flex - Ouro 3"
+
+    [
+        "RadianteFake - 2/10 - Ouro 1",
+        "Silentin - 9/10 - Ouro 1",
+        "GhostBR - 5/10 - Ouro 1",
+        "FireDoZap - 1/10 - Ouro 2"
+    ],
+
+    [
+        "Rushadão - 10/10 - Ouro 2",
+        "Pixelzinho - 4/10 - Ouro 2",
+        "NightBR - 8/10 - Ouro 3",
+        "Drakozera - 3/10 - Ouro 3"
+    ],
+
+    [
+        "MidDiferença - 7/10 - Ouro 3",
+        "AceDoInterior - 6/10 - Ouro 3",
+        "SilentinFPS - 9/10 - Ouro 1",
+        "PixelRush - 4/10 - Ouro 2"
+    ]
+
 ]
 
 platina = [
-    "VortexFPS - 10/10 - Duelista - Platina 1",
-    "LunarGhost - 2/10 - Controlador - Platina 1",
-    "ShadowClutch - 8/10 - Sentinela - Platina 1",
-    "NeoAim - 1/10 - Iniciador - Platina 2",
-    "ToxicRush - 7/10 - Flex - Platina 2",
-    "QuickScope - 4/10 - Duelista - Platina 2",
-    "Darkzera - 9/10 - Controlador - Platina 3",
-    "FireGhost - 3/10 - Iniciador - Platina 3",
-    "RushX - 6/10 - Duelista - Platina 3",
-    "SilentFPS - 5/10 - Sentinela - Platina 3"
+
+    [
+        "VortexBR - 10/10 - Platina 1",
+        "Lunarzera - 2/10 - Platina 1",
+        "ShadowDoZap - 8/10 - Platina 1",
+        "NeoFPS - 1/10 - Platina 2"
+    ],
+
+    [
+        "ToxicDoGrau - 7/10 - Platina 2",
+        "QuickDoPix - 4/10 - Platina 2",
+        "Darkzera - 9/10 - Platina 3",
+        "FireGhostBR - 3/10 - Platina 3"
+    ],
+
+    [
+        "RushXT - 6/10 - Platina 3",
+        "SilentBR - 5/10 - Platina 3",
+        "ShadowClutchBR - 8/10 - Platina 1",
+        "DarkDoMouse - 9/10 - Platina 3"
+    ]
+
 ]
 
 diamante = [
-    "AlphaGod - 8/10 - Duelista - Diamante 1",
-    "PixelHunter - 1/10 - Controlador - Diamante 1",
-    "DrakoAim - 10/10 - Iniciador - Diamante 1",
-    "SniperKing - 4/10 - Flex - Diamante 2",
-    "NightClutch - 9/10 - Sentinela - Diamante 2",
-    "Frostzera - 2/10 - Duelista - Diamante 2",
-    "InfernoFPS - 7/10 - Controlador - Diamante 3",
-    "GhostRush - 3/10 - Iniciador - Diamante 3",
-    "Clutchzera - 6/10 - Duelista - Diamante 3",
-    "RapidAim - 5/10 - Flex - Diamante 3"
+
+    [
+        "AlphaBR - 8/10 - Diamante 1",
+        "PixelDoZap - 1/10 - Diamante 1",
+        "DrakoAimBR - 10/10 - Diamante 1",
+        "SniperDoPix - 4/10 - Diamante 2"
+    ],
+
+    [
+        "Nightzera - 9/10 - Diamante 2",
+        "FrostDoido - 2/10 - Diamante 2",
+        "InfernoBR - 7/10 - Diamante 3",
+        "GhostDoMouse - 3/10 - Diamante 3"
+    ],
+
+    [
+        "ClutchBR - 6/10 - Diamante 3",
+        "Rapidzera - 5/10 - Diamante 3",
+        "NightFPS - 9/10 - Diamante 2",
+        "InfernoRush - 7/10 - Diamante 3"
+    ]
+
 ]
 
 ascendente = [
-    "ViperGod - 1/10 - Duelista - Ascendente 1",
-    "SmokeKing - 9/10 - Controlador - Ascendente 1",
-    "Neonzera - 4/10 - Iniciador - Ascendente 1",
-    "AimMachine - 10/10 - Flex - Ascendente 2",
-    "DarkSniper - 3/10 - Sentinela - Ascendente 2",
-    "RushLegend - 8/10 - Duelista - Ascendente 2",
-    "ClutchPlayer - 2/10 - Controlador - Ascendente 3",
-    "GhostAim - 7/10 - Iniciador - Ascendente 3",
-    "ToxicFPS - 5/10 - Duelista - Ascendente 3",
-    "ShadowKing - 6/10 - Flex - Ascendente 3"
+
+    [
+        "ViperDoZap - 1/10 - Ascendente 1",
+        "SmokeBR - 9/10 - Ascendente 1",
+        "Neonzera - 4/10 - Ascendente 1",
+        "MachineDoPix - 10/10 - Ascendente 2"
+    ],
+
+    [
+        "DarkClutch - 3/10 - Ascendente 2",
+        "RushLendário - 8/10 - Ascendente 2",
+        "ClutchDoZap - 2/10 - Ascendente 3",
+        "Ghostzera - 7/10 - Ascendente 3"
+    ],
+
+    [
+        "ToxicBR - 5/10 - Ascendente 3",
+        "ShadowDoInterior - 6/10 - Ascendente 3",
+        "SmokeKingBR - 9/10 - Ascendente 1",
+        "DarkSniperBR - 3/10 - Ascendente 2"
+    ]
+
 ]
 
 imortal = [
-    "RadiantHunter - 3/10 - Duelista - Imortal 1",
-    "NightmareFPS - 10/10 - Controlador - Imortal 1",
-    "SilentKiller - 2/10 - Sentinela - Imortal 1",
-    "NeoGhost - 9/10 - Iniciador - Imortal 2",
-    "DrakoLegend - 5/10 - Flex - Imortal 2",
-    "QuickAim - 1/10 - Duelista - Imortal 2",
-    "ShadowMachine - 8/10 - Controlador - Imortal 3",
-    "RushPhantom - 4/10 - Iniciador - Imortal 3",
-    "ClutchGodzera - 7/10 - Duelista - Imortal 3",
-    "PixelMaster - 6/10 - Flex - Imortal 3"
+
+    [
+        "NightDoPix - 9/10 - Imortal 1",
+        "Clutchzera - 6/10 - Imortal 1",
+        "GhostDoZap - 4/10 - Imortal 1",
+        "RushDoInterior - 8/10 - Imortal 1"
+    ],
+
+    [
+        "PixelBR - 3/10 - Imortal 2",
+        "ShadowAim - 10/10 - Imortal 2",
+        "MwzeraFake - 5/10 - Imortal 2",
+        "SniperDoMouse - 7/10 - Imortal 2"
+    ],
+
+    [
+        "QuickDoPix - 2/10 - Imortal 3",
+        "NeoClutch - 9/10 - Imortal 3",
+        "DarkzeraBR - 1/10 - Imortal 3",
+        "AceDoZap - 6/10 - Imortal 3"
+    ]
+
 ]
 
 radiante = [
-    "TenzFake - 1/10 - Duelista - Radiante",
-    "AspasClone - 8/10 - Controlador - Radiante",
-    "Lesszera - 5/10 - Sentinela - Radiante",
-    "SacyGhost - 10/10 - Iniciador - Radiante",
-    "HeatRush - 3/10 - Flex - Radiante",
-    "MwzeraAim - 9/10 - Duelista - Radiante",
-    "CauanzinFPS - 2/10 - Controlador - Radiante",
-    "QuickPhantom - 7/10 - Iniciador - Radiante",
-    "NeoRadiant - 4/10 - Duelista - Radiante",
-    "ShadowImmortal - 6/10 - Flex - Radiante"
+
+    [
+        "TenzDaShoppee - 1/10 - Radiante",
+        "AspasFake - 8/10 - Radiante",
+        "LessDoInterior - 5/10 - Radiante",
+        "SacyDoZap - 10/10 - Radiante"
+    ],
+
+    [
+        "HeatDoPix - 3/10 - Radiante",
+        "MwzeraDoMouse - 9/10 - Radiante",
+        "CauanClutch - 2/10 - Radiante",
+        "QuickPhantomBR - 7/10 - Radiante"
+    ],
+
+    [
+        "NeoRadiant - 4/10 - Radiante",
+        "ShadowDoGrau - 6/10 - Radiante",
+        "AspasClone - 8/10 - Radiante",
+        "LesszeraBR - 5/10 - Radiante"
+    ]
+
 ]
+
 todosRanks = {
     1: ferro,
     2: bronze,
